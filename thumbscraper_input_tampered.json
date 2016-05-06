@@ -1,0 +1,98 @@
+{
+    "4a59a097": {
+        "xpath_button_to_click": "/html/body/div[@class=\"page\"]/div[2]/div/div[1]/div[3]/div/a[1]",
+        "xpath_test_result": [
+            "Les th\u00e8mes juridiques"
+        ], 
+        "next_page_expected": "18a1f660", 
+        "xpath_test_query": "//*[@id=\"body\"]/div[@class=\"page\"]/div[2]/div/h2[2]/span//text()"
+    }, 
+    "b9e77fb6": {
+        "xpath_button_to_click": "/html/body/div[2]/div[2]/div/div/div[2]/form/div[2]/a", 
+        "xpath_test_result": [
+            "Mot de passe oubli\u00e9 ?"
+        ], 
+        "next_page_expected": "235199a1", 
+        "xpath_test_query": "//*[@id=\"body\"]/div[@class=\"page\"]/div[2]/div/div/div[2]/form/div[2]/a//text()"
+    }, 
+    "0": {
+        "xpath_button_to_click": "/html/body/div[2]/nav/div/div/ul/li[1]/ul/li[5]/a", 
+        "xpath_test_result": [
+            "Vos documents juridiques en quelques clics"
+        ], 
+        "next_page_expected": "684b2080", 
+        "xpath_test_query": "//*[@id=\"body\"]/div[@class=\"page\"]/div[2]/section[1]/div/h1//text()"
+    }, 
+    "166b04ff": {
+        "xpath_button_to_click": "/html/body/div[2]/div[2]/section[6]/div/table/tfoot/tr[1]/th[2]/a", 
+        "xpath_test_result": [
+            "Cr\u00e9ation d'une SARL"
+        ], 
+        "next_page_expected": "d0e388f3", 
+        "xpath_test_query": "//*[@id=\"product-description-left\"]/h1//text()"
+    }, 
+    "24fd20c7": {
+        "xpath_button_to_click": "/html/body/div[2]/nav/div/div/ul/li[4]/a", 
+        "xpath_test_result": [
+            "Dirigeant entreprise"
+        ], 
+        "next_page_expected": "4a59a097", 
+        "xpath_test_query": "//*[@id=\"content\"]/div[1]/div/a[2]//text()"
+    }, 
+    "3e1a3a94": {
+        "xpath_button_to_click": "/html/body/div[2]/footer/div[2]/div/div[1]/div[1]/ul/li[1]/a", 
+        "xpath_test_result": [
+            "Caroline Aupoix"
+        ], 
+        "next_page_expected": "922c1bf9", 
+        "xpath_test_query": "//*[@id=\"sheader\"]/div/div/h1//text()"
+    }, 
+    "447a6aee": {
+        "xpath_button_to_click": "/html/body/div[2]/div[2]/div/div[1]/div[2]/div/a[1]", 
+        "xpath_test_result": [
+            "\u00c0 la une"
+        ], 
+        "next_page_expected": "e4d46046", 
+        "xpath_test_query": "//*[@id=\"body\"]/div[@class=\"page\"]/div[2]/div/h2[1]/span//text()"
+    }, 
+    "684b2080": {
+        "xpath_button_to_click": "/html/body/div[2]/nav/div/div/ul/li[4]/a", 
+        "xpath_test_result": [
+            "Cr\u00e9ation d'une EURL "
+        ], 
+        "next_page_expected": "447a6aee", 
+        "xpath_test_query": "//*[@id=\"body\"]/div[@class=\"page\"]/div[2]/div[1]/div[1]/div[1]/div[2]/h1//text()"
+    }, 
+    "922c1bf9": {
+        "xpath_button_to_click": "/html/body/div[2]/nav/div/div/ul/li[1]/ul/li[6]/a", 
+        "xpath_test_result": [
+            "Comparez les diff\u00e9rentes structures juridiques"
+        ], 
+        "next_page_expected": "166b04ff", 
+        "xpath_test_query": "//*[@id=\"body\"]/div[@class=\"page\"]/div[1]/div/div/h2//text()"
+    }, 
+    "d0e388f3": {
+        "xpath_button_to_click": "/html/body/div[2]/header/div/ul/li[3]/a", 
+        "xpath_test_result": [
+            "Conditions g\u00e9n\u00e9rales"
+        ], 
+        "next_page_expected": "b9e77fb6", 
+        "xpath_test_query": "//*[@id=\"sheader\"]/div/div/h1//text()"
+    }, 
+    "18a1f660": {
+        "xpath_button_to_click": "/html/body/div[2]/div[2]/div/div[2]/article[2]/a", 
+        "xpath_test_result": [
+            "Trouvez le bon avocat en ligne et contactez-le d\u00e8s maintenant !"
+        ], 
+        "next_page_expected": "3e1a3a94", 
+        "xpath_test_query": "//*[@id=\"sheader\"]/div/div/h1//text()"
+    }, 
+    "e4d46046": {
+        "xpath_button_to_click": "/html/body/div[1]/nav/div/div/ul/li[4]/ul/li[18]/a", 
+        "xpath_test_result": [
+            "D\u00e9poser une marque en 5 \u00e9tapes"
+        ], 
+        "next_page_expected": "24fd20c7", 
+        "xpath_test_query": "//*[@id=\"content\"]/div[1]/h1/strong//text()"
+    }
+}
